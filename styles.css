@@ -1,0 +1,40 @@
+body {
+    background-color: gold;
+    padding: 40px;
+    margin: 30px;
+}
+
+.big {
+    font-size: 84px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.nature-header {
+    color: green;
+    
+}
+
+.city-header {
+    color: grey;
+}
+
+.rain {
+    background-color: blue;
+    color:white;
+}
+
+footer {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top:150px;
+}
+img {
+    max-width: 50%;
+    max-height: 50%;
+  }
+.flex {
+    display:flex;
+}
+.spacing {
+    padding: 10px;
+}
